@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Env files
+.env
+
+# Poetry
+poetry.lock
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Docker
+*.db
+*.pid
+*.log
+*.tar
+*.gz
+
+# MacOS / Linux
+.DS_Store
+.idea/
+
+# PyInstaller
+*.spec
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Output
+*.out
+
