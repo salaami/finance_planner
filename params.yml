@@ -1,0 +1,20 @@
+# General settings
+start_age: 38
+retirement_age: 67
+simulation_years: 40
+initial_wealth: 30000        # € starting capital
+
+# Income & saving
+annual_income: 60000         # gross income per year
+savings_rate: 0.1           # percentage of income saved
+
+# Investment assumptions
+expected_return: 0.05        # average annual return
+inflation_rate: 0.02         # average inflation rate
+
+# return_scenarios
+return_scenarios:
+  Conservative (3%): 0.03
+  Realistic (5%): 0.05
+  Optimistic (7%): 0.07
+
